@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run C++ Code",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/Users/1M72696/Documents/1.MOISEBIM/Programas/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/Users/1M72696/Documents/1.MOISEBIM/Programas",
+            "environment": [],
+            "externalConsole": false
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Motor apagado --> Enciendes motor (neutro) --> Eje del motor gira a idle RPM + RPM de las ruedas son 0 --> Metes marcha 
+--> Transmites el par del motor a las ruedas (Ruedas empiezan a girar a las RPM del motor modficadas por transmisión)
+--> Aceleras --> RPM del motor aumentan --> RPM ruedas aumentan
+
+Unreal hace la simualción al revés --> Parte de las ruedas para llegar al motor cuando tendría que partir del motor para llegar a las ruedas
+Se ha detectado que se 
